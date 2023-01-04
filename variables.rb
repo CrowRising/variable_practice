@@ -17,3 +17,5 @@ user_id = "Colter Wall"
 birth_place = "saskatchewan"
 
 puts user_id
+puts net_worth
+puts un_dead
