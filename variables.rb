@@ -12,3 +12,6 @@ expenses = 72.00
 un_dead = true
 friends = false
 lovers = true
+
+user_id = "Colter Wall"
+birth_place = "saskatchewan"
